@@ -1,67 +1,76 @@
-# 🚀 **Awesome Project Name**
+# 🌟 **Welcome to My GitHub Profile!**
 
 ![Banner](https://your-image-url.com/banner.png)
 
 <p align="center">
-  <img src="https://your-image-url.com/logo.png" width="150" alt="Project Logo">
+  <img src="https://your-image-url.com/logo.png" width="150" alt="Profile Logo">
 </p>
 
 <p align="center">
-  <b>✨ An innovative and powerful project to revolutionize [your niche]! ✨</b>
+  <b>✨ Hi, I'm Piyush! A passionate developer, creator, and innovator. 🚀</b>
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="#about-me">About Me</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 🎯 **About the Project**
-A sleek, modern, and powerful project designed to solve [specific problem]. Built with love ❤️ and cutting-edge technology. 
+## 🎯 **About Me**
+👋 Hey there! I'm Piyush, a developer who loves coding, building amazing projects, and learning new technologies. Whether it's **Web3, Machine Learning, Game Dev, or Blockchain**, I'm always excited to explore and create. 
 
-## ✨ **Features**
-- 🚀 **Fast & Efficient** – Lightning-fast performance
-- 🎨 **Beautiful UI** – Clean and modern design
-- 🔄 **Cross-Platform** – Works seamlessly on all devices
-- 🛠️ **Highly Customizable** – Adapt it to your needs
-- 🔐 **Secure** – Follows best security practices
+🌍 **Open-Source Enthusiast | Full-Stack Developer | Innovator**
 
-## 📸 **Screenshots**
-<p align="center">
-  <img src="https://your-image-url.com/screenshot1.png" width="45%">
-  <img src="https://your-image-url.com/screenshot2.png" width="45%">
-</p>
+---
 
-## 🛠️ **Installation**
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install  # or any setup command
-```
+## 🚀 **Featured Projects**
+### 🎮 **Game Development in C++**
+- 🔹 **Valorant 2D Mini-Game**
+- 🎯 A 2D recreation of Valorant maps with C++
+- 🚀 Fast, lightweight, and fun to play
 
-## 🚀 **Usage**
-```bash
-npm start  # or your start command
-```
+### 🌐 **Discord Clone in .NET**
+- 🔹 Built with **C# and .NET**
+- 🎤 Voice channels, real-time chat, and more
+- 💡 Learning **SignalR for real-time updates**
 
-## 🤝 **Contributing**
-Pull requests are welcome! Please follow the contribution guidelines. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
+### 📊 **Data Analytics with Python**
+- 🔹 Data visualization and insights extraction
+- 📈 Using **Pandas, Matplotlib, and Seaborn**
+- 🔥 Ideal for AI-driven applications
 
-## ⭐ **Show Your Support**
-Give a ⭐ if you like this project and spread the word!
+---
 
-## 📜 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🛠️ **Skills & Technologies**
 
-## 💡 **Acknowledgments**
-A big thanks to all contributors and resources that made this project possible.
+- **Languages:** Python, C++, C#, Java, Kotlin, JavaScript, TypeScript
+- **Frameworks:** .NET, ASP.NET, React, Tailwind CSS
+- **Databases:** Firebase, MySQL, MongoDB
+- **Blockchain & Web3:** Solidity, Smart Contracts
+- **Game Development:** Unity (C#), Unreal Engine (C++)
+
+---
+
+## 📊 **GitHub Stats**
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 **Contact & Connect**
+💌 **Email:** your-email@example.com  
+🐦 **Twitter:** [@your_twitter](https://twitter.com/your_twitter)  
+📷 **Instagram:** [@your_instagram](https://instagram.com/your_instagram)  
+🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by [Your Name]</b>
+  <b>Made with ❤️ by Piyush</b>
 </p>
+
+---
